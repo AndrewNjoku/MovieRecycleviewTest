@@ -5,4 +5,12 @@ package com.example.andriatae.mymovieapplication.Presenter_View;
  */
 
 public interface View {
+
+
+
+
+
+    void UpdateView();
+
+
 }

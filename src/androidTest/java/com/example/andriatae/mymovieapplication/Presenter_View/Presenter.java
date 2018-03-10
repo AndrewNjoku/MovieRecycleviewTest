@@ -5,4 +5,14 @@ package com.example.andriatae.mymovieapplication.Presenter_View;
  */
 
 public class Presenter {
+
+
+    //3 interactors for 3 actions to be performed in this application
+    //I will create Mock versions of my interactors to perform certain actions
+
+
+
+
+
+
 }
